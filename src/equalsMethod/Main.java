@@ -14,7 +14,7 @@ public class Main {
 		
 		Point point1 = new Point(x1, y1);
 		Point point2 = new Point(x2, y2);
-		
+		 
 		System.out.println(point1.equals(point2));
 	}
 
